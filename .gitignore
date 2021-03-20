@@ -1,0 +1,5 @@
+# PATH VAGRANT
+.vagrant/
+
+# LOG
+.log
